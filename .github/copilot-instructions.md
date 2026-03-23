@@ -13,7 +13,7 @@ This project is an educational website for sharing homework assignments and codi
 
 - Maintain consistent styling across all pages
 - Keep file and folder names descriptive and organized
-
+- While creating the code add inline comments so that my code is documented and easy to understand for my students.
 ## Educational Standards
 
 When generating content for this project:
